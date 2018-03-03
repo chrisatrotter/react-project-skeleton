@@ -7,11 +7,11 @@
     }
   },
   "appType": "APP",
-  "name": "El Potato",
+  "name": "React App",
   "version": "1.0.0",
-  "description": "Diablo 3 leaderboard and character overview.",
+  "description": "A React project skeleton",
   "developer": {
-    "name": "Marius, Christopher"
+    "name": "Kalosar, Puffmonkey"
   },
   "icons": {
     "48": "public/favicon.ico"
