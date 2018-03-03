@@ -1,0 +1,20 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "appType": "APP",
+  "name": "El Potato",
+  "version": "1.0.0",
+  "description": "Diablo 3 leaderboard and character overview.",
+  "developer": {
+    "name": "Marius, Christopher"
+  },
+  "icons": {
+    "48": "public/favicon.ico"
+  },
+  "manifest_generated_at": "Wed Feb 21 2016 18:31:22 GMT+0100 (CET)"
+}
